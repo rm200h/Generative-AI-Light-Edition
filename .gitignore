@@ -1,0 +1,4 @@
+# Lines starting with `#` are comments.
+
+# Ignore files under '.ipynb_checkpoints' everywhere
+**/.ipynb_checkpoints/
